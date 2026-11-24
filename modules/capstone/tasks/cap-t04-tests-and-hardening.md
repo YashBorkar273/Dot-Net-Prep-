@@ -16,7 +16,7 @@ Separates a demo from production-ready code.
 - What would you add before real users touch this?
 
 ## Practice
-Add auth, tests and the production concerns from Module 6.
+Add auth, tests and the production concerns from Module 7.
 
 Put your code in `../solutions/cap-t04/` and your own notes in `../notes/cap-t04.md`.
 

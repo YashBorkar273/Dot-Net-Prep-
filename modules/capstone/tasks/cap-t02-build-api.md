@@ -11,6 +11,7 @@ The core deliverable.
 
 ## Topics to cover
 - [ ] Web API + EF Core end to end
+- [ ] Optional: a small MVC admin page on the same data layer
 
 ## Interview check: you must be able to answer
 - Explain any trade-off you made.

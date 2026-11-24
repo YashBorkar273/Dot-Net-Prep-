@@ -14,6 +14,12 @@ Every coding submission is scored out of 10, like a pull request at a company wi
 | Idiomatic C# / .NET | 1.0 | Async all the way with CancellationToken, DI over `new`, naming conventions, nullable annotations, modern C# |
 | Testing | 1.0 | Tests exist, test behaviour not implementation, cover edge cases. For tasks before Module 6 without required tests, this point is awarded for testable design |
 
+## Frontend (Angular/React) submissions
+Same 10 points, with three categories reinterpreted:
+- **Data access → State and data flow (1.5):** no leaked subscriptions (async pipe / takeUntilDestroyed), no duplicated state, sensible signals/RxJS use, OnPush where it fits.
+- **API contract → API integration (1.0):** typed models, interceptors for auth and errors, loading/empty/error states handled.
+- **Security (1.0):** no tokens in unsafe places without justification, no `innerHTML` with untrusted data, guards treated as UX only (the API still enforces authZ).
+
 ## Severity labels
 - 🔴 **Blocker**: wrong, insecure, loses data, or fails a requirement. **Any blocker caps the score at 4/10.**
 - 🟠 **Major**: works but would be rejected in review (N+1, entity returned from API, sync-over-async, missing validation).

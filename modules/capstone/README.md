@@ -10,7 +10,7 @@ You will be able to: Build and defend a complete system the way you would in a t
 |---|---|---|
 | [CAP-T01](tasks/cap-t01-spec-and-design.md) | Spec and design | ⬜ Not started |
 | [CAP-T02](tasks/cap-t02-build-api.md) | Build the API | ⬜ Not started |
-| [CAP-T03](tasks/cap-t03-build-mvc-admin.md) | Build the MVC admin area | ⬜ Not started |
+| [CAP-T03](tasks/cap-t03-build-angular-frontend.md) | Build the Angular frontend | ⬜ Not started |
 | [CAP-T04](tasks/cap-t04-tests-and-hardening.md) | Tests and hardening | ⬜ Not started |
 | [CAP-T05](tasks/cap-t05-final-review-and-mock.md) | Final code review and mock interview | ⬜ Not started |
 | [Module test](test/module-test.md) | Concept round + debugging drill + coding task | ⬜ Not started |
