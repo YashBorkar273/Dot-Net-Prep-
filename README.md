@@ -5,7 +5,7 @@ A structured, tracked learning plan for a junior/mid full-stack Software Enginee
 ## Progress
 | Module | Title | Weeks | Tasks done | Module test | Status |
 |---|---|---|---|---|---|
-| [Module 0](modules/00-csharp-oop-sql-foundations/README.md) | C#, OOP and SQL Foundations | 2 | 0/7 | ⬜ | ⬜ |
+| [Module 0](modules/00-csharp-oop-sql-foundations/README.md) | C#, OOP and SQL Foundations | 2 | 0/7 | ⬜ | 🟨 |
 | [Module 1](modules/01-aspnet-core-fundamentals/README.md) | ASP.NET Core Fundamentals | 1.5 | 0/5 | ⬜ | ⬜ |
 | [Module 2](modules/02-web-api/README.md) | Web API | 2 | 0/7 | ⬜ | ⬜ |
 | [Module 3](modules/03-frontend-angular/README.md) | Frontend: TypeScript and Angular (React comparison) | 2.5 | 0/8 | ⬜ | ⬜ |

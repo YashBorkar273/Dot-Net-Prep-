@@ -1,6 +1,6 @@
 # Learner Profile: .NET Interview Prep
 
-<!-- Last updated: 2026-11-23. Changes rarely. Claude updates it when goals or constraints change. -->
+<!-- Last updated: 2026-11-25. Changes rarely. Claude updates it when goals or constraints change. -->
 
 | Field | Value |
 |---|---|
@@ -18,7 +18,7 @@
 | Environment / IDE | Visual Studio (VS Code suggested for Angular later) |
 | Database for practice | SQL Server (LocalDB for local practice) |
 
-## Diagnostic results (2026-11-23)
+## Diagnostic results (2026-11-25)
 | # | Probe | Result | What it showed |
 |---|---|---|---|
 | 1 | Struct vs class copy semantics | solid | Correct; explanation thin |

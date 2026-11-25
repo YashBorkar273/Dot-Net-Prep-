@@ -1,6 +1,6 @@
 # Module 0: C#, OOP and SQL Foundations
 
-**Status:** ⬜ Not started · **Estimated time:** 2 weeks · **Target:** .NET 10 (LTS)
+**Status:** 🟨 In progress · **Estimated time:** 2 weeks · **Target:** .NET 10 (LTS)
 
 ## Objective
 You will be able to: Explain the runtime, language and database behaviour that every API and EF Core question builds on.
@@ -8,7 +8,7 @@ You will be able to: Explain the runtime, language and database behaviour that e
 ## Tasks
 | Task | Title | Status |
 |---|---|---|
-| [M0-T01](tasks/m0-t01-types-and-memory.md) | Types and memory | ⬜ Not started |
+| [M0-T01](tasks/m0-t01-types-and-memory.md) | Types and memory | 🟨 In progress |
 | [M0-T02](tasks/m0-t02-oop-and-solid.md) | OOP and SOLID | ⬜ Not started |
 | [M0-T03](tasks/m0-t03-generics-delegates-lambdas.md) | Generics, delegates, lambdas and events | ⬜ Not started |
 | [M0-T04](tasks/m0-t04-linq-and-collections.md) | LINQ and collections | ⬜ Not started |
