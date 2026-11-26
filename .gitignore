@@ -4,6 +4,7 @@ obj/
 .vs/
 .vscode/
 .idea/
+*.patch
 *.user
 *.suo
 *.db
